@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/poker-cheats/static/css/main.87becf0c.chunk.css",
+    "main.js": "/poker-cheats/static/js/main.865373d8.chunk.js",
+    "main.js.map": "/poker-cheats/static/js/main.865373d8.chunk.js.map",
+    "runtime~main.js": "/poker-cheats/static/js/runtime~main.26c9047d.js",
+    "runtime~main.js.map": "/poker-cheats/static/js/runtime~main.26c9047d.js.map",
+    "static/js/2.b41502e9.chunk.js": "/poker-cheats/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/poker-cheats/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/poker-cheats/index.html",
+    "precache-manifest.50d6b3ac77b4e4317be51da594c010aa.js": "/poker-cheats/precache-manifest.50d6b3ac77b4e4317be51da594c010aa.js",
+    "service-worker.js": "/poker-cheats/service-worker.js",
+    "static/css/main.87becf0c.chunk.css.map": "/poker-cheats/static/css/main.87becf0c.chunk.css.map",
+    "static/media/logo.svg": "/poker-cheats/static/media/logo.aa5d94ed.svg"
+  }
+}
