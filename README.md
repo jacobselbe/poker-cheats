@@ -5,33 +5,7 @@ Poker Cheats helps poker players make better in game decisions. Users can track 
 
 ### Working Prototype
 
-View working prototype here: [poker-cheats](https://jacobselbe.github.io/poker-cheats/) 
-
-
-## Site Map: MVP
-
-![Site Map]
-
-
-## UX & User Stories: MVP
-
-**Landing Page** 
-
-
-
-![Landing Page Design]
-
-
-## Designs
-
-**Landing Page** 
-
-![Landing Page Design]
-
-
-## Screenshots: MVP
-
-![Landing Page Screenshot]
+View working prototype here: [poker-cheats](https://jacobselbe.github.io/poker-cheats/)
 
 
 ## Technical
@@ -41,10 +15,32 @@ View working prototype here: [poker-cheats](https://jacobselbe.github.io/poker-c
 * JavaScript 
 * React
 
+## Development Progress
 
-### Responsive
-This app is built to be responsive to all screen sizes.
+* Working towards delivering barebones MVP focused on accurately tracking gameplay.
 
 
-## Development Road Map
-MVP currently in progress.
+## BASIC MVP - User Stories
+
+**As a user I want to...** 
+
+* see a poker table and buttons to quickly enter game play data
+* enter how many players are at the table
+* enter new players if they join midgame
+* enter which player begins the betting round
+* enter my hole cards
+* enter board cards as they appear 
+* enter each player's actions: call, fold, small raise, large raise
+* see the best action I should take between: call, fold, small raise, large raise
+* enter my action
+
+**As a user it MAY be helpful to...**
+
+* see my hand strength in addition to recommended actions
+* see possible hands that could beat mine
+* see the likelihood of possible hands that could beat mine attached to specific players based on their actions
+
+
+## Next Development Step
+
+* Implementing effective poker strategy into the JavaScript logic. Possibly consider outsourcing this logic to an API if available.
