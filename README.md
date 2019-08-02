@@ -17,7 +17,7 @@ View working prototype here: [poker-cheats](https://jacobselbe.github.io/poker-c
 
 ## Development Progress
 
-* Working towards delivering barebones MVP focused on accurately tracking gameplay.
+Working towards delivering barebones MVP focused on accurately tracking gameplay.
 
 
 ## BASIC MVP - User Stories
@@ -43,4 +43,4 @@ View working prototype here: [poker-cheats](https://jacobselbe.github.io/poker-c
 
 ## Next Development Step
 
-* Implementing effective poker strategy into the JavaScript logic. Possibly consider outsourcing this logic to an API if available.
+Implementing effective poker strategy into the JavaScript logic. Possibly consider outsourcing this logic to an API if available.
