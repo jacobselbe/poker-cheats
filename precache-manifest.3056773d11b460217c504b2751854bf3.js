@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10523963c6affd294eba6f7d3322f72c",
+    "revision": "d1060c91482672955fb0c16b87fa77d5",
     "url": "/poker-cheats/index.html"
   },
   {
-    "revision": "82c1e8a9556602a14775",
-    "url": "/poker-cheats/static/css/main.87becf0c.chunk.css"
+    "revision": "0c90ffcff4a6e65fd477",
+    "url": "/poker-cheats/static/css/main.db54a09f.chunk.css"
   },
   {
-    "revision": "2e0129063922e3bb197a",
-    "url": "/poker-cheats/static/js/2.b41502e9.chunk.js"
+    "revision": "5417a0cd21f90402196c",
+    "url": "/poker-cheats/static/js/2.030fb976.chunk.js"
   },
   {
-    "revision": "82c1e8a9556602a14775",
-    "url": "/poker-cheats/static/js/main.865373d8.chunk.js"
+    "revision": "0c90ffcff4a6e65fd477",
+    "url": "/poker-cheats/static/js/main.f0014dc7.chunk.js"
   },
   {
     "revision": "76a1dfe1f907aa51817f",
