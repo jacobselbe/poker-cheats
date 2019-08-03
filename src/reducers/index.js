@@ -1,13 +1,13 @@
 import * as actions from '../actions';
 
 const initialState = {
-    fakeObject: ['fake data 1', 'fake data 2']
+    players: 2
 };
 
 export const someReducer = (state = initialState, action) => {
-    if (action.type === actions.ADD_FAKE_DATA) {
+    if (action.type === actions.SET_PLAYERS) {
         return Object.assign({}, state, {
-            fakeObject: [...state.fakeObject, action.fakeData]
+            players: action.players
         });
     }
     return state;

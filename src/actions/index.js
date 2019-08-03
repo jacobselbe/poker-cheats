@@ -1,5 +1,5 @@
-export const ADD_FAKE_DATA = 'ADD_FAKE_DATA';
-export const addFakeData = fakeData => ({
-    type: ADD_FAKE_DATA,
-    fakeData
+export const SET_PLAYERS = 'SET_PLAYERS';
+export const setPlayers = players => ({
+    type: SET_PLAYERS,
+    players: players
 });
