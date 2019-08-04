@@ -1,13 +1,13 @@
 import * as actions from '../actions';
 
 const initialState = {
-    players: 2
+    gameStarted: false
 };
 
 export const someReducer = (state = initialState, action) => {
-    if (action.type === actions.SET_PLAYERS) {
+    if (action.type === actions.START_GAME) {
         return Object.assign({}, state, {
-            players: action.players
+            gameStarted: action.startGame
         });
     }
     return state;

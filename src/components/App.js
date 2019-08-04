@@ -1,44 +1,27 @@
 import React from 'react';
-// import { connect } from 'react-redux';
 
-// import other components needed
+import OpponentSection from './OpponentSection';
+import CommunitySection from './CommunitySection';
+import PlayerSection from './PlayerSection';
+
 // import actions needed
 
 import logo from '../logo.svg';
 import './App.css';
 
-function App() {
+function App(props) {
   return (
-    <div className="App">
+    <div>
       <header className="App-header">
-        <h1>Under construction. Come back soon.</h1>
         <img src={logo} className="App-logo" alt="logo" />
       </header>
+      <main role="main" className="App">
+        <OpponentSection />
+        <CommunitySection />
+        <PlayerSection />
+      </main>
     </div>
   );
 }
 
 export default App;
-
-
-// change too class based component
-
-// export class App extends React.Component {
-//   render() {
-//     return (
-//       <div>
-
-//       </div>
-//     );
-//   }
-// }
-
-// App.defaultProps = {
-  
-// };
-
-// const mapStateToProps = state => ({
-  
-// });
-
-// export default connect(mapStateToProps)(App);
