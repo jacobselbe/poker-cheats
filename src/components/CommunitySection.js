@@ -10,11 +10,14 @@ export class CommunitySection extends React.Component {
   render() {
     return (
       <div class="section">
-        <Card />
-        <Card />
-        <Card />
-        <Card />
-        <Card />
+        <h2>Community Section</h2>
+        <div class="cards">
+          <Card />
+          <Card />
+          <Card />
+          <Card />
+          <Card />
+        </div>
       </div>
     );
   }
