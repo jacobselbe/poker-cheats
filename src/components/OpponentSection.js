@@ -9,7 +9,7 @@ import './section.css';
 export class OpponentSection extends React.Component {
   render() {
     return (
-      <div class="section">
+      <div className="section">
         <Card />
         <Card />
       </div>

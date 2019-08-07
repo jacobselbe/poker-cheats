@@ -9,9 +9,9 @@ import './section.css';
 export class CommunitySection extends React.Component {
   render() {
     return (
-      <div class="section">
+      <div className="section">
         <h2>Community Section</h2>
-        <div class="cards">
+        <div className="cards">
           <Card />
           <Card />
           <Card />
