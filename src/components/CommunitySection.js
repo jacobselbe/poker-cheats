@@ -1,14 +1,20 @@
 import React from 'react';
 import { connect } from 'react-redux';
 
-// import other components needed
+import Card from "./Card";
+import './section.css';
+
 // import actions needed
 
 export class CommunitySection extends React.Component {
   render() {
     return (
-      <div>
-        <h2>CommunitySection</h2> 
+      <div class="section">
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+        <Card />
       </div>
     );
   }
