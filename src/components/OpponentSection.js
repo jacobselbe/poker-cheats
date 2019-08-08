@@ -10,8 +10,11 @@ export class OpponentSection extends React.Component {
   render() {
     return (
       <div className="section">
-        <Card />
-        <Card />
+        <h2>Opponent Section</h2>
+        <div className="twoCards">
+          <Card />
+          <Card />
+        </div>
       </div>
     );
   }

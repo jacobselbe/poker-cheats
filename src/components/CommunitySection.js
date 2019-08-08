@@ -11,7 +11,7 @@ export class CommunitySection extends React.Component {
     return (
       <div className="section">
         <h2>Community Section</h2>
-        <div className="cards">
+        <div className="fiveCards">
           <Card />
           <Card />
           <Card />
